@@ -31,6 +31,9 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+
+[resume](/assets/resume.pdf)
   
 Skills
 ======
