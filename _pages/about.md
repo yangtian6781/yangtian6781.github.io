@@ -33,7 +33,7 @@ My research interest includes Multimodel Large Language Model and computer visio
 
 **Yang Tian**, Mengmeng Zhang, Jinyu Li, Yangfan Li, Hong Yang, Wei Li
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DwterwUAAAAJ:u5HHmVD_uO8C](https://github.com/yangtian6781/FPNFormer)) <strong><span class='show_paper_citations' data='DwterwUAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**]([https://github.com/yangtian6781/FPNFormer] <strong><span class='show_paper_citations' data='DwterwUAAAAJ:u5HHmVD_uO8C'></span></strong>
 </div>
 </div>
 
