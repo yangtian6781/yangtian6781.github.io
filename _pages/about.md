@@ -27,7 +27,7 @@ My research interest includes Multimodel Large Language Model and computer visio
 # 📝 Publications 
 You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DwterwUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-[**TGRS**][FPNFormer: Rethink the Method of Processing the Rotation-Invariance and Rotation-Equivariance on Arbitrary-Oriented Object Detection](https://ieeexplore.ieee.org/document/10384424).**Yang Tian**, Mengmeng Zhang, Jinyu Li, Yangfan Li, Hong Yang, Wei Li[**Project**](https://github.com/yangtian6781/FPNFormer)
+[**TGRS**][FPNFormer: Rethink the Method of Processing the Rotation-Invariance and Rotation-Equivariance on Arbitrary-Oriented Object Detection](https://ieeexplore.ieee.org/document/10384424).**Yang Tian**, Mengmeng Zhang, Jinyu Li, Yangfan Li, Hong Yang, Wei Li. [**Project**](https://github.com/yangtian6781/FPNFormer)
 
 
 # 📖 Educations
