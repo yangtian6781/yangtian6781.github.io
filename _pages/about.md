@@ -31,7 +31,7 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 
 
 # 📖 Educations
-- *2025.9 - *, School of Artificial Intelligence, Shanghai Jiao Tong University.
+- *2025.9 - now*, School of Artificial Intelligence, Shanghai Jiao Tong University.
 - *2021.09 - 2025.06*, School of Mechanical Engineering, Beijing Institute of Technology.
 
 # 🎖 Honors and Awards
