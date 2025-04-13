@@ -14,6 +14,7 @@ jobs:
       run: |
         cd ./google_scholar_crawler
         pip install -r requirements.txt
+        echo dajsiodjosd
         python main.py
         cd ./results
         git init
