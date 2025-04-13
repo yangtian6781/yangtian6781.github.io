@@ -4,10 +4,16 @@ import json
 from datetime import datetime
 import os
 
+print(1)
+print(os.environ['GOOGLE_SCHOLAR_ID'])
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+print(1)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+print(1)
 name = author['name']
+print(1)
 author['updated'] = str(datetime.now())
+print(1)
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 print(json.dumps(author, indent=2))
 os.makedirs('results', exist_ok=True)
