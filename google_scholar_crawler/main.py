@@ -1,4 +1,4 @@
-print(1)
+print(1, flush=True)
 from scholarly import scholarly
 print(1)
 import jsonpickle
