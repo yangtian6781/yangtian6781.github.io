@@ -11,7 +11,7 @@ import os
 
 print(1, flush=True)
 print("DwterwUAAAAJ")
-author: dict = scholarly.search_author_id(DwterwUAAAAJ)
+author: dict = scholarly.search_author_id("DwterwUAAAAJ")
 print(1, flush=True)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 print(1, flush=True)
