@@ -1,24 +1,24 @@
 print(1, flush=True)
 from scholarly import scholarly
-print(1)
+print(1, flush=True)
 import jsonpickle
-print(1)
+print(1, flush=True)
 import json
-print(1)
+print(1, flush=True)
 from datetime import datetime
-print(1)
+print(1, flush=True)
 import os
 
-print(1)
+print(1, flush=True)
 print(os.environ['GOOGLE_SCHOLAR_ID'])
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-print(1)
+print(1, flush=True)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-print(1)
+print(1, flush=True)
 name = author['name']
-print(1)
+print(1, flush=True)
 author['updated'] = str(datetime.now())
-print(1)
+print(1, flush=True)
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 print(json.dumps(author, indent=2))
 os.makedirs('results', exist_ok=True)
