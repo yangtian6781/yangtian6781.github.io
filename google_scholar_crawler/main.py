@@ -1,7 +1,12 @@
+print(1)
 from scholarly import scholarly
+print(1)
 import jsonpickle
+print(1)
 import json
+print(1)
 from datetime import datetime
+print(1)
 import os
 
 print(1)
