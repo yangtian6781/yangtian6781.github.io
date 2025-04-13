@@ -9,7 +9,6 @@ from datetime import datetime
 print(1, flush=True)
 import os
 
-print(1, flush=True)
 print(os.environ['GOOGLE_SCHOLAR_ID'], flush=True)
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 print(1, flush=True)
