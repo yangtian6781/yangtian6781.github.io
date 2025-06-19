@@ -29,7 +29,7 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 
 [**arXiv**] MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers. **Yang Tian**, Zheng Lu, Mingqi Gao, Zheng Liu, Bo Zhao. [**Paper**](https://arxiv.org/abs/2503.16856)
 
-[**arXiv**] Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding. Xiangrui Liu, Yan Shu, Zheng Liu, Ao Li, **Yang Tian**, Bo Zhao. [**Paper**](https://arxiv.org/pdf/2503.18478)
+[**arXiv**] Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding. Xiangrui Liu, Yan Shu, Zheng Liu, **Yang Tian**, Ao Li, Bo Zhao. [**Paper**](https://arxiv.org/pdf/2503.18478)
 
 [**TGRS**] FPNFormer: Rethink the Method of Processing the Rotation-Invariance and Rotation-Equivariance on Arbitrary-Oriented Object Detection. **Yang Tian**, Mengmeng Zhang, Jinyu Li, Yangfan Li, Hong Yang, Wei Li. [**Code**](https://github.com/yangtian6781/FPNFormer)
 
