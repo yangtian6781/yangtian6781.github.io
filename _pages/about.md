@@ -39,11 +39,11 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 - *2025.9 - now*, School of Artificial Intelligence, Shanghai Jiao Tong University.
 - *2021.09 - 2025.06*, School of Mechanical Engineering, Beijing Institute of Technology.
 
+# 💻 Internships
+- *2025.05 - now*, Lark AI, ByteDance.
+
 # 🎖 Honors and Awards
 - *2021.10* None
 
 # 💬 Invited Talks
 - *2021.06*, None
-
-# 💻 Internships
-- *2019.05 - 2020.02*, None
