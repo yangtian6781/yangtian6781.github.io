@@ -22,7 +22,7 @@ My research interest includes Multimodel Large Language Model and Computer Visio
 
 
 # 🔥 News
-- *2025.06*: 🎉🎉 One paper accepted to ICCV 2025.
+- *2025.06*: 🎉🎉 One paper was accepted to ICCV 2025.
 
 # 📝 Publications 
 You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DwterwUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
