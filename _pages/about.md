@@ -40,7 +40,7 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 - *2021.09 - 2025.06*, School of Mechanical Engineering, Beijing Institute of Technology.
 
 # 💻 Internships
-- *2025.05 - now*, Lark AI, ByteDance.
+- *2025.05 - 2025.08*, Lark AI, ByteDance.
 
 # 🎖 Honors and Awards
 - *2021.10* None
