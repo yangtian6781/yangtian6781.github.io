@@ -31,6 +31,7 @@ I’m always open to discussions and collaborations—please feel free to reach 
 You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DwterwUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 [**arXiv**] TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos. Xiangrui Liu, Minghao Qin, Yan Shu, Zhengyang Liang, **Yang Tian**, Chen Jason Zhang, Bo Zhao, Zheng Liu
+
 [**ICCV 2025**] MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers. **Yang Tian**, Zheng Lu, Mingqi Gao, Zheng Liu, Bo Zhao. [**Paper**](https://arxiv.org/abs/2503.16856)
 
 [**TGRS**] FPNFormer: Rethink the Method of Processing the Rotation-Invariance and Rotation-Equivariance on Arbitrary-Oriented Object Detection. **Yang Tian**, Mengmeng Zhang, Jinyu Li, Yangfan Li, Hong Yang, Wei Li. [**Code**](https://github.com/yangtian6781/FPNFormer)
