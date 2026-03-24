@@ -46,7 +46,7 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 
 # 💻 Internships
 - *2026.03 - now*, MiLM Plus, Xiaomi Inc.
-- *2025.05 - 2025.08*, Lark AI, ByteDance.
+- *2025.05 - 2025.10*, Lark AI, ByteDance.
 
 # 🎖 Honors and Awards
 - *2021.10* None
