@@ -45,7 +45,6 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 - *2021.09 - 2025.06*, School of Mechanical Engineering, Beijing Institute of Technology.
 
 # 💻 Internships
-- *2026.03 - now*, MiLM Plus, Xiaomi Inc.
 - *2025.05 - 2025.10*, Lark AI, ByteDance.
 
 # 🎖 Honors and Awards
