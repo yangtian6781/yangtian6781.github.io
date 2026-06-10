@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Yang Tian (Chinese name: 田扬), a first-year Master’s student at the [MINT Lab](https://mint-sjtu.github.io/), Shanghai Jiao Tong University, where I’m fortunate to be supervised by Prof. [Bo Zhao](https://www.bozhao.me/).
+Hi! I’m Yang Tian (Chinese name: 田扬), a first-year Master’s student at Shanghai Jiao Tong University.
 
 My research focuses on Multimodal Large Language Models and AI Agent, with an interest in building intelligent systems that can understand and reason across text and visual information.
 
@@ -29,6 +29,8 @@ I’m always open to discussions and collaborations—please feel free to reach 
 
 # 📝 Publications 
 You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DwterwUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+[**arXiv**] PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment. **Yang Tian**, Rui Wang, Xumeng Wen, Junjie Li, Shizhao Sun, Lei Song, Jiang Bian, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.09348)
 
 [**arXiv**] TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos. Xiangrui Liu, Minghao Qin, Yan Shu, Zhengyang Liang, **Yang Tian**, Chen Jason Zhang, Bo Zhao, Zheng Liu. [**Paper**](https://arxiv.org/abs/2509.26360)
 
