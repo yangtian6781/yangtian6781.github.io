@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I’m Yang Tian (Chinese name: 田扬), a first-year Master’s student at Shanghai Jiao Tong University.
 
-My research focuses on Multimodal Large Language Models and AI Agent, with an interest in building intelligent systems that can understand and reason across text and visual information.
+My research focuses on AI Agent and Multimodal Large Language Models, with an interest in building intelligent systems that can understand and reason across text and visual information.
 
 I’m always open to discussions and collaborations—please feel free to reach out via email if our interests align!
 
@@ -31,6 +31,8 @@ I’m always open to discussions and collaborations—please feel free to reach 
 You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DwterwUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 [**arXiv**] PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment. **Yang Tian**, Rui Wang, Xumeng Wen, Junjie Li, Shizhao Sun, Lei Song, Jiang Bian, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.09348)
+
+[**arXiv**] Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability. **Yang Tian**, Zhengpeng Shi, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.25819)
 
 [**arXiv**] TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos. Xiangrui Liu, Minghao Qin, Yan Shu, Zhengyang Liang, **Yang Tian**, Chen Jason Zhang, Bo Zhao, Zheng Liu. [**Paper**](https://arxiv.org/abs/2509.26360)
 
@@ -47,6 +49,7 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 - *2021.09 - 2025.06*, School of Mechanical Engineering, Beijing Institute of Technology.
 
 # 💻 Internships
+- *2026.04 - now*, XYZ AI Lab. My time here has been unforgettable, and I wish all my friends a bright future.
 - *2025.05 - 2025.10*, Lark AI, ByteDance.
 
 # 🎖 Honors and Awards
