@@ -32,7 +32,7 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 
 [**arXiv**] PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment. **Yang Tian**, Rui Wang, Xumeng Wen, Junjie Li, Shizhao Sun, Lei Song, Jiang Bian, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.09348)
 
-[**arXiv**] Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability. **Yang Tian**, Zhengpeng Shi, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.25819)
+[**arXiv**] Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability. **Yang Tian**, Zhengpeng Shi, Yu Zhou, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.25819)
 
 [**arXiv**] TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos. Xiangrui Liu, Minghao Qin, Yan Shu, Zhengyang Liang, **Yang Tian**, Chen Jason Zhang, Bo Zhao, Zheng Liu. [**Paper**](https://arxiv.org/abs/2509.26360)
 
