@@ -52,7 +52,8 @@ You can also use google scholar badge <a href='https://scholar.google.com/citati
 - *2021.09 - 2025.06*, School of Mechanical Engineering, Beijing Institute of Technology.
 
 # 💻 Internships
-- *2026.04 - now*, XYZ AI Lab. My time here has been unforgettable, and I wish all my friends a bright future.
+- *2026.08 - now*, IQuest Coder
+- *2026.04 - 2026.7*, XYZ AI Lab. My time here has been unforgettable, and I wish all my friends a bright future.
 - *2025.05 - 2025.10*, Lark AI, ByteDance.
 
 # 🎖 Honors and Awards
