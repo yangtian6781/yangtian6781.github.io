@@ -31,6 +31,10 @@ I’m always open to discussions and collaborations—please feel free to reach 
 # 📝 Publications 
 You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DwterwUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+[**arXiv**] From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop. **Yang Tian**, Tianyu Zheng, Xiyuan Yang, Yaxin Du, Chengran Yang, Bo Zhao, Jian Yang and Bryan Dai. [**Paper**](https://arxiv.org/abs/2611.21152v1)
+
+[**Technical Report**] IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems. IQuest-Research. [**Paper**](https://arxiv.org/abs/2610.30949)
+
 [**Technical Report**] AI4AI at Scale: A Full-Pipeline System for Enhancing LLM Agentic Capabilities. XYZ Team. [**Paper**](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf)
 
 [**arXiv**] PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment. **Yang Tian**, Rui Wang, Xumeng Wen, Junjie Li, Shizhao Sun, Lei Song, Jiang Bian, Bo Zhao. [**Paper**](https://arxiv.org/abs/2606.09348)
